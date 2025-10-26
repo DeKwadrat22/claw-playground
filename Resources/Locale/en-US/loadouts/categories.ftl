@@ -32,26 +32,26 @@ loadout-category-JobsEngineeringStationEngineer = Station Engineer
 loadout-category-JobsEngineeringTechnicalAssistant = Technical Assistant
 
 # Epistemics
-loadout-category-JobsEpistemics = Epistemics
+loadout-category-JobsEpistemics = Science
 loadout-category-JobsEpistemicsAAUncategorized = All Epistemiologists
-loadout-category-JobsEpistemicsAcolyte = Acolyte
+loadout-category-JobsEpistemicsAcolyte = Science
 loadout-category-JobsEpistemicsCataloger = Cataloger
 loadout-category-JobsEpistemicsChaplain = Chaplain
 # Floof - renamed back
 loadout-category-JobsEpistemicsGolemancer = Roboticist
-loadout-category-JobsEpistemicsMystagogue = Mystagogue
+loadout-category-JobsEpistemicsMystagogue = Research Director
 loadout-category-JobsEpistemicsMystic = Mystic
 loadout-category-JobsEpistemicsNoviciate = Noviciate
 loadout-category-JobsEpistemicsPsionicMantis = Psionic Mantis
 
 # Logistics
-loadout-category-JobsLogistics = Logistics
+loadout-category-JobsLogistics = Cargo
 loadout-category-JobsLogisticsAUncategorized = All Logistics
 loadout-category-JobsLogisticsCargoTechnician = Cargo Technician
 loadout-category-JobsLogisticsCourier = Courier
 # Floof - senior cargo
 loadout-category-JobsLogisticsInventorySpecialist = Inventory Specialist
-loadout-category-JobsLogisticsLogisticsOfficer = Logistics Officer
+loadout-category-JobsLogisticsLogisticsOfficer = Quartermaster
 loadout-category-JobsLogisticsSalvageSpecialist = Salvage Specialist
 
 # Medical
@@ -68,7 +68,7 @@ loadout-category-JobsMedicalSeniorPhysician = Senior Physician
 # Security
 loadout-category-JobsSecurity = Security
 loadout-category-JobsSecurityAUncategorized = All Security
-loadout-category-JobsSecurityWeapons = Service Weapons 
+loadout-category-JobsSecurityWeapons = Service Weapons
 loadout-category-JobsSecurityCadet = Cadet
 loadout-category-JobsSecurityCorpsman = Corpsman
 loadout-category-JobsSecurityDetective = Detective

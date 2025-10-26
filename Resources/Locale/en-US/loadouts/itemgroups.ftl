@@ -189,34 +189,34 @@ character-item-group-LoadoutTechnicalAssistantShoes = Technical Assistant Shoes
 character-item-group-LoadoutTechnicalAssistantUniforms = Technical Assistant Uniforms
 
 # Epistemics
-character-item-group-LoadoutEpistemicsBackpacks = Epistemics Backpacks
-character-item-group-LoadoutEpistemicsBelt = Epistemics Belt
-character-item-group-LoadoutEpistemicsEars = Epistemics Ears
-character-item-group-LoadoutEpistemicsEquipment = Epistemics Equipment
-character-item-group-LoadoutEpistemicsEyes = Epistemics Eyewear
-character-item-group-LoadoutEpistemicsGloves = Epistemics Gloves
-character-item-group-LoadoutEpistemicsHead = Epistemics Headgear
-character-item-group-LoadoutEpistemicsId = Epistemics Id
-character-item-group-LoadoutEpistemicsNeck = Epistemics Neckwear
-character-item-group-LoadoutEpistemicsMask = Epistemics Masks
-character-item-group-LoadoutEpistemicsOuter = Epistemics Outerwear
-character-item-group-LoadoutEpistemicsShoes = Epistemics Shoes
-character-item-group-LoadoutEpistemicsUniforms = Epistemics Uniforms
+character-item-group-LoadoutEpistemicsBackpacks = Science Backpacks
+character-item-group-LoadoutEpistemicsBelt = Science Belt
+character-item-group-LoadoutEpistemicsEars = Science Ears
+character-item-group-LoadoutEpistemicsEquipment = Science Equipment
+character-item-group-LoadoutEpistemicsEyes = Science Eyewear
+character-item-group-LoadoutEpistemicsGloves = Science Gloves
+character-item-group-LoadoutEpistemicsHead = Science Headgear
+character-item-group-LoadoutEpistemicsId = Science Id
+character-item-group-LoadoutEpistemicsNeck = Science Neckwear
+character-item-group-LoadoutEpistemicsMask = Science Masks
+character-item-group-LoadoutEpistemicsOuter = Science Outerwear
+character-item-group-LoadoutEpistemicsShoes = Science Shoes
+character-item-group-LoadoutEpistemicsUniforms = Science Uniforms
 
 # Epistemics - Acolyte
-character-item-group-LoadoutAcolyteBackpacks = Acolyte Backpacks
-character-item-group-LoadoutAcolyteBelt = Acolyte Belt
-character-item-group-LoadoutAcolyteEars = Acolyte Ears
-character-item-group-LoadoutAcolyteEquipment = Acolyte Equipment
-character-item-group-LoadoutAcolyteEyes = Acolyte Eyewear
-character-item-group-LoadoutAcolyteGloves = Acolyte Gloves
-character-item-group-LoadoutAcolyteHead = Acolyte Headgear
-character-item-group-LoadoutAcolyteId = Acolyte Id
-character-item-group-LoadoutAcolyteNeck = Acolyte Neckwear
-character-item-group-LoadoutAcolyteMask = Acolyte Masks
-character-item-group-LoadoutAcolyteOuter = Acolyte Outerwear
-character-item-group-LoadoutAcolyteShoes = Acolyte Shoes
-character-item-group-LoadoutAcolyteUniforms = Acolyte Uniforms
+character-item-group-LoadoutAcolyteBackpacks = Scientist Backpacks
+character-item-group-LoadoutAcolyteBelt = Scientist Belt
+character-item-group-LoadoutAcolyteEars = Scientist Ears
+character-item-group-LoadoutAcolyteEquipment = Scientist Equipment
+character-item-group-LoadoutAcolyteEyes = Scientist Eyewear
+character-item-group-LoadoutAcolyteGloves = Scientist Gloves
+character-item-group-LoadoutAcolyteHead = Scientist Headgear
+character-item-group-LoadoutAcolyteId = Scientist Id
+character-item-group-LoadoutAcolyteNeck = Scientist Neckwear
+character-item-group-LoadoutAcolyteMask = Scientist Masks
+character-item-group-LoadoutAcolyteOuter = Scientist Outerwear
+character-item-group-LoadoutAcolyteShoes = Scientist Shoes
+character-item-group-LoadoutAcolyteUniforms = Scientist Uniforms
 
 # Epistemics - Cataloger
 character-item-group-LoadoutCatalogerBackpacks = Cataloger Backpacks
@@ -265,19 +265,19 @@ character-item-group-LoadoutGolemancerShoes = Roboticist Shoes
 character-item-group-LoadoutGolemancerUniforms = Roboticist Uniforms
 
 # Epistemics - Mystagogue
-character-item-group-LoadoutMystagogueBackpacks = Mystagogue Backpacks
-character-item-group-LoadoutMystagogueBelt = Mystagogue Belt
-character-item-group-LoadoutMystagogueEars = Mystagogue Ears
-character-item-group-LoadoutMystagogueEquipment = Mystagogue Equipment
-character-item-group-LoadoutMystagogueEyes = Mystagogue Eyewear
-character-item-group-LoadoutMystagogueGloves = Mystagogue Gloves
-character-item-group-LoadoutMystagogueHead = Mystagogue Headgear
-character-item-group-LoadoutMystagogueId = Mystagogue Id
-character-item-group-LoadoutMystagogueNeck = Mystagogue Neckwear
-character-item-group-LoadoutMystagogueMask = Mystagogue Masks
-character-item-group-LoadoutMystagogueOuter = Mystagogue Outerwear
-character-item-group-LoadoutMystagogueShoes = Mystagogue Shoes
-character-item-group-LoadoutMystagogueUniforms = Mystagogue Uniforms
+character-item-group-LoadoutMystagogueBackpacks = Research Director Backpacks
+character-item-group-LoadoutMystagogueBelt = Research Director Belt
+character-item-group-LoadoutMystagogueEars = Research Director Ears
+character-item-group-LoadoutMystagogueEquipment = Research Director Equipment
+character-item-group-LoadoutMystagogueEyes = Research Director Eyewear
+character-item-group-LoadoutMystagogueGloves = Research Director Gloves
+character-item-group-LoadoutMystagogueHead = Research Director Headgear
+character-item-group-LoadoutMystagogueId = Research Director Id
+character-item-group-LoadoutMystagogueNeck = Research Director Neckwear
+character-item-group-LoadoutMystagogueMask = Research Director Masks
+character-item-group-LoadoutMystagogueOuter = Research Director Outerwear
+character-item-group-LoadoutMystagogueShoes = Research Director Shoes
+character-item-group-LoadoutMystagogueUniforms = Research Director Uniforms
 
 # Epistemics - Mystic
 character-item-group-LoadoutMysticBackpacks = Mystic Backpacks
@@ -325,19 +325,19 @@ character-item-group-LoadoutPsionicMantisShoes = Psionic Mantis Shoes
 character-item-group-LoadoutPsionicMantisUniforms = Psionic Mantis Uniforms
 
 # Logistics
-character-item-group-LoadoutLogisticsBackpacks = Logistics Backpacks
-character-item-group-LoadoutLogisticsBelt = Logistics Belt
-character-item-group-LoadoutLogisticsEars = Logistics Ears
-character-item-group-LoadoutLogisticsEquipment = Logistics Equipment
-character-item-group-LoadoutLogisticsEyes = Logistics Eyewear
-character-item-group-LoadoutLogisticsGloves = Logistics Gloves
-character-item-group-LoadoutLogisticsHead = Logistics Headgear
-character-item-group-LoadoutLogisticsId = Logistics Id
-character-item-group-LoadoutLogisticsNeck = Logistics Neckwear
-character-item-group-LoadoutLogisticsMask = Logistics Masks
-character-item-group-LoadoutLogisticsOuter = Logistics Outerwear
-character-item-group-LoadoutLogisticsShoes = Logistics Shoes
-character-item-group-LoadoutLogisticsUniforms = Logistics Uniforms
+character-item-group-LoadoutLogisticsBackpacks = Cargo Backpacks
+character-item-group-LoadoutLogisticsBelt = Cargo Belt
+character-item-group-LoadoutLogisticsEars = Cargo Ears
+character-item-group-LoadoutLogisticsEquipment = Cargo Equipment
+character-item-group-LoadoutLogisticsEyes = Cargo Eyewear
+character-item-group-LoadoutLogisticsGloves = Cargo Gloves
+character-item-group-LoadoutLogisticsHead = Cargo Headgear
+character-item-group-LoadoutLogisticsId = Cargo Id
+character-item-group-LoadoutLogisticsNeck = Cargo Neckwear
+character-item-group-LoadoutLogisticsMask = Cargo Masks
+character-item-group-LoadoutLogisticsOuter = Cargo Outerwear
+character-item-group-LoadoutLogisticsShoes = Cargo Shoes
+character-item-group-LoadoutLogisticsUniforms = Cargo Uniforms
 
 # Logistics - Cargo Technician
 character-item-group-LoadoutCargoTechnicianBackpacks = Cargo Technician Backpacks
@@ -386,19 +386,19 @@ character-item-group-LoadoutInventorySpecialistShoes = Inventory Specialist Shoe
 character-item-group-LoadoutInventorySpecialistUniforms = Inventory Specialist Uniforms
 
 # Logistics - Logistics Officer
-character-item-group-LoadoutLogisticsOfficerBackpacks = Logistics Officer Backpacks
-character-item-group-LoadoutLogisticsOfficerBelt = Logistics Officer Belt
-character-item-group-LoadoutLogisticsOfficerEars = Logistics Officer Ears
-character-item-group-LoadoutLogisticsOfficerEquipment = Logistics Officer Equipment
-character-item-group-LoadoutLogisticsOfficerEyes = Logistics Officer Eyewear
-character-item-group-LoadoutLogisticsOfficerGloves = Logistics Officer Gloves
-character-item-group-LoadoutLogisticsOfficerHead = Logistics Officer Headgear
-character-item-group-LoadoutLogisticsOfficerId = Logistics Officer Id
-character-item-group-LoadoutLogisticsOfficerNeck = Logistics Officer Neckwear
-character-item-group-LoadoutLogisticsOfficerMask = Logistics Officer Masks
-character-item-group-LoadoutLogisticsOfficerOuter = Logistics Officer Outerwear
-character-item-group-LoadoutLogisticsOfficerShoes = Logistics Officer Shoes
-character-item-group-LoadoutLogisticsOfficerUniforms = Logistics Officer Uniforms
+character-item-group-LoadoutLogisticsOfficerBackpacks = Quartermaster Backpacks
+character-item-group-LoadoutLogisticsOfficerBelt = Quartermaster Officer Belt
+character-item-group-LoadoutLogisticsOfficerEars = Quartermaster Officer Ears
+character-item-group-LoadoutLogisticsOfficerEquipment = Quartermaster Officer Equipment
+character-item-group-LoadoutLogisticsOfficerEyes = Quartermaster Officer Eyewear
+character-item-group-LoadoutLogisticsOfficerGloves = Quartermaster Officer Gloves
+character-item-group-LoadoutLogisticsOfficerHead = Quartermaster Officer Headgear
+character-item-group-LoadoutLogisticsOfficerId = Quartermaster Officer Id
+character-item-group-LoadoutLogisticsOfficerNeck = Quartermaster Officer Neckwear
+character-item-group-LoadoutLogisticsOfficerMask = Quartermaster Officer Masks
+character-item-group-LoadoutLogisticsOfficerOuter = Quartermaster Officer Outerwear
+character-item-group-LoadoutLogisticsOfficerShoes = Quartermaster Officer Shoes
+character-item-group-LoadoutLogisticsOfficerUniforms = Quartermaster Officer Uniforms
 
 # Logistics - Salvage Specialist
 character-item-group-LoadoutSalvageSpecialistBackpacks = Salvage Specialist Backpacks

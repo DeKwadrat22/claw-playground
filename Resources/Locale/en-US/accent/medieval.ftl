@@ -328,7 +328,7 @@ accent-medieval-words-replace-93 = merchants' guild
 accent-medieval-words-94 = LO
 accent-medieval-words-replace-94 = Guild Master
 
-accent-medieval-words-95 = Logistics Officer
+accent-medieval-words-95 = quartermaster
 accent-medieval-words-replace-95 = Guild Master
 
 accent-medieval-words-96 = moths
@@ -397,7 +397,7 @@ accent-medieval-words-replace-116 = alchemists
 accent-medieval-words-117 = MG
 accent-medieval-words-replace-117 = Head Alchemist
 
-accent-medieval-words-118 = Mystagogue
+accent-medieval-words-118 = Research Director
 accent-medieval-words-replace-118 = Head Alchemist
 
 accent-medieval-words-119 = department

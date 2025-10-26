@@ -13,7 +13,7 @@ id-card-access-level-chief-engineer = Chief Engineer
 id-card-access-level-engineering = Engineering
 id-card-access-level-atmospherics = Atmospherics
 
-id-card-access-level-research-director = Mystagogue
+id-card-access-level-research-director = Research Director
 id-card-access-level-research = Research
 
 id-card-access-level-chief-medical-officer = Chief Medical Officer
@@ -22,7 +22,7 @@ id-card-access-level-chemistry = Chemistry
 id-card-access-level-paramedic = Paramedic
 id-card-access-level-psychologist = Psychologist
 
-id-card-access-level-quartermaster = Logistics Officer
+id-card-access-level-quartermaster = Quartermaster
 id-card-access-level-cargo = Logistics
 id-card-access-level-salvage = Salvage
 

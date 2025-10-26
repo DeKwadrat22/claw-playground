@@ -1,8 +1,8 @@
-station-beacon-epistemics = Epistemics
+station-beacon-epistemics = Science
 station-beacon-mystagogue = Mystagogue
 
-station-beacon-logistics = Logistics
-station-beacon-logistics-reception = Logistics
+station-beacon-logistics = Cargo
+station-beacon-logistics-reception = Cargo
 station-beacon-lo = LO
 
 station-beacon-conference-room = Conference Room
