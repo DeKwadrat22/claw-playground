@@ -11,7 +11,7 @@ namespace Content.Server.Spawners.Components
 
         [ViewVariables(VVAccess.ReadWrite)]
         [DataField]
-        public float RareChance { get; set; } = 0.05f;
+        public float RareChance { get; set; } = 0.2f;
 
         [ViewVariables(VVAccess.ReadWrite)]
         [DataField]

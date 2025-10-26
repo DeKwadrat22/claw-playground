@@ -361,7 +361,7 @@ namespace Content.Shared.CCVar
         /// <summary>
         /// Whether the baby jail is currently enabled.
         /// </summary>
-        public static readonly CVarDef<bool> BabyJailEnabled  =
+        public static readonly CVarDef<bool> BabyJailEnabled =
             CVarDef.Create("game.baby_jail.enabled", false, CVar.NOTIFY | CVar.REPLICATED | CVar.SERVER);
 
         /// <summary>
@@ -1811,7 +1811,7 @@ namespace Content.Shared.CCVar
         /// <summary>
         /// Time it takes the shuttle to spin up it's hyper drive and jump
         /// </summary>
-        public static readonly CVarDef<float> ArrivalsStartupTime=
+        public static readonly CVarDef<float> ArrivalsStartupTime =
             CVarDef.Create("shuttle.arrivals_startup_time", 5.5f, CVar.SERVERONLY);
 
         /// <summary>
