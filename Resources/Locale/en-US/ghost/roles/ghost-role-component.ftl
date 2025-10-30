@@ -43,6 +43,12 @@ ghost-role-information-shiva-name = Shiva
 ghost-role-information-shiva-description = Shiva, the stations first defender. Help the Head of Security in their work
 ghost-role-information-shiva-rules = Protect security staff and the crew from danger. Stay with Security staff or around the Security department, try to disable criminals and not kill them if the situation allows for it.
 
+# Claw Command
+ghost-role-information-stripes-name = Commander Stripes
+ghost-role-information-stripes-description = Commander Stripes is a powerful tiger trained for combat by blueshield. Help the Head of Security in their work
+ghost-role-information-stripes-rules = Protect security staff and the crew from danger. Stay with Security staff or around the Security department, try to disable criminals and not kill them if the situation allows for it.
+
+
 ghost-role-information-punpun-name = Pun Pun
 ghost-role-information-punpun-description = An honorable member of the monkey society in charge of the bar and helping the bartenders in any way he can.
 
