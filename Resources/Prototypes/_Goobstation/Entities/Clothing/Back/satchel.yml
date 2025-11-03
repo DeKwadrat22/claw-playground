@@ -10,8 +10,8 @@
 - type: entity
   parent: ClothingBackpackSatchel
   id: ClothingBackpackSatchelBlueshield
-  name: blueshield satchel
+  name: claw command satchel
   description: A very protective satchel, smells like energy gun.
   components:
   - type: Sprite
-    sprite: _Goobstation/Clothing/Back/Satchels/blueshield.rsi
+    sprite: _ClawCommand/Clothing/Back/Satchels/clawcommand.rsi

@@ -5,7 +5,7 @@
   components:
   - type: Appearance
   - type: Sprite
-    sprite: _Goobstation/Structures/Storage/closet.rsi
+    sprite: _ClawCommand/Structures/Storage/closet.rsi
   - type: AccessReader
     access: [["BlueshieldOfficer"]]
   - type: EntityStorageVisuals

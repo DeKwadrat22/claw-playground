@@ -5,14 +5,14 @@
   description: A navy blue beret with the silver shield of the Nanotrasen security forces.
   components:
   - type: Sprite
-    sprite: _Goobstation/Clothing/Head/Hats/beret_bso_navy.rsi
+    sprite: _ClawCommand/Clothing/Head/Hats/beret_cco_navy.rsi
   - type: Clothing
-    sprite: _Goobstation/Clothing/Head/Hats/beret_bso_navy.rsi
+    sprite: _ClawCommand/Clothing/Head/Hats/beret_cco_navy.rsi
   - type: Tag
     tags:
     - ClothMade
     - WhitelistChameleon
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatBeretOfficer
@@ -31,13 +31,13 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatCowboyBlueshield
-  name: blueshield cowboy hat
+  name: claw command cowboy hat
   description: Sheriff's back in town, kids
   components:
   - type: Sprite
-    sprite: _Goobstation/Clothing/Head/Hats/cowboyhatbso.rsi
+    sprite: _ClawCommand/Clothing/Head/Hats/cowboyhatcco.rsi
   - type: Clothing
-    sprite: _Goobstation/Clothing/Head/Hats/cowboyhatbso.rsi
+    sprite: _ClawCommand/Clothing/Head/Hats/cowboyhatcco.rsi
   - type: Tag
     tags:
     - ClothMade
