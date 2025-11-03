@@ -139,7 +139,7 @@
   - type: StationEvent
     earliestStart: 15
     minimumPlayers: 1
-    weight: 4
+    weight: 2
     duration: 60
   - type: VentCrittersRule
     entries:
