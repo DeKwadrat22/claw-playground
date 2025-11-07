@@ -1,0 +1,104 @@
+- type: entity
+  id: PelletShotgunSlug
+  name: pellet (23 mm slug)
+  categories: [ HideSpawnMenu ]
+  parent: BaseBullet
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Projectiles/projectiles2.rsi
+    state: slug
+  - type: Projectile
+    damage:
+      types:
+        Piercing: 75
+        Structural: 50
+
+- type: entity
+  id: PelletShotgunBeanbag
+  name: beanbag (23 mm)
+  categories: [ HideSpawnMenu ]
+  parent: BaseBullet
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Projectiles/projectiles2.rsi
+    state: buckshot
+  - type: Projectile
+    damage:
+      types:
+        Blunt: 10
+  - type: StaminaDamageOnCollide
+    damage: 80 # 1.5 hits to stun
+
+- type: entity
+  id: PelletShotgun
+  name: pellet (23 mm)
+  categories: [ HideSpawnMenu ]
+  parent: BaseBullet
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Projectiles/projectiles2.rsi
+    state: buckshot
+  - type: Projectile
+    damage:
+      types:
+        Piercing: 15
+
+- type: entity
+  id: PelletShotgunSpread
+  categories: [ HideSpawnMenu ]
+  parent: PelletShotgun
+  components:
+  - type: ProjectileSpread
+    proto: PelletShotgun
+    count: 10
+    spread: 10
+
+- type: entity
+  id: PelletShotgunPractice
+  name: pellet (23 mm practice)
+  categories: [ HideSpawnMenu ]
+  parent: BaseBulletPractice
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Projectiles/projectiles2.rsi
+    state: buckshot
+  - type: Projectile
+    damage:
+      types:
+        Blunt: 1
+
+- type: entity
+  id: PelletShotgunPracticeSpread
+  categories: [ HideSpawnMenu ]
+  parent: PelletShotgunPractice
+  components:
+  - type: ProjectileSpread
+    proto: PelletShotgunPractice
+    count: 10
+    spread: 10
+
+- type: entity
+  id: PelletShotgunUranium
+  name: pellet (23 mm uranium)
+  categories: [ HideSpawnMenu ]
+  parent: BaseBullet
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Projectiles/projectiles2.rsi
+    state: depleted-uranium
+  - type: Projectile
+    damage:
+      types:
+        Radiation: 7
+        Piercing: 8
+
+- type: entity
+  id: PelletShotgunUraniumSpread
+  categories: [ HideSpawnMenu ]
+  parent: PelletShotgunUranium
+  components:
+  - type: ProjectileSpread
+    proto: PelletShotgunUranium
+    count: 10
+    spread: 10
+

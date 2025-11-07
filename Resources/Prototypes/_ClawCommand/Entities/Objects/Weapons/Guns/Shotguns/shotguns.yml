@@ -1,0 +1,23 @@
+
+- type: entity
+  name: KWS-23
+  parent: [BaseWeaponShotgun, BaseGunWieldable]
+  id: WeaponKWS23
+  description: A average size shotgun originally made for riot control. Due to fantastic stopping power it is also used for door breaching and pest control.
+  components:
+  - type: Item
+    size: Normal
+    shape:
+    - 0,0,4,0
+    sprite: _ClawCommand/Objects/Weapons/Guns/Shotguns/pump_inhands_64x.rsi
+  - type: Sprite
+    sprite: _ClawCommand/Objects/Weapons/Guns/Shotguns/pump_clothes.rsi
+  - type: Clothing
+    sprite: Objects/Weapons/Guns/Shotguns/pump.rsi
+  - type: GunRequiresWield #remove when inaccuracy on spreads is fixed
+  - type: BallisticAmmoProvider
+    capacity: 4
+  - type: Tag
+    tags:
+    - WeaponKWS23
+  - type: Wieldable

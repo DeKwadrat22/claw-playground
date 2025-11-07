@@ -1,0 +1,93 @@
+﻿- type: entity
+  id: BaseShellShotgun
+  name: shell (23 mm)
+  parent: BaseCartridge
+  abstract: true
+  components:
+  - type: Tag
+    tags:
+    - Cartridge
+    - ShellShotgun
+  - type: CartridgeAmmo
+    soundEject:
+      collection: ShellEject
+  - type: Sprite
+    sprite: Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi
+    layers:
+      - state: base
+        map: [ "enum.AmmoVisualLayers.Base" ]
+  - type: Appearance
+  - type: SpentAmmoVisuals
+
+- type: entity
+  id: ShellShotgunBeanbag
+  name: shell (23 mm beanbag)
+  parent: BaseShellShotgun
+  components:
+  - type: Tag
+    tags:
+    - Cartridge
+    - ShellShotgun
+    - ShellShotgunLight
+  - type: Sprite
+    layers:
+      - state: beanbag
+        map: [ "enum.AmmoVisualLayers.Base" ]
+  - type: CartridgeAmmo
+    proto: PelletShotgunBeanbag
+  - type: SpentAmmoVisuals
+    state: "beanbag"
+- type: entity
+  id: ShellShotgunSlug
+  name: shell (23 mm slug)
+  parent: BaseShellShotgun
+  components:
+  - type: Sprite
+    layers:
+      - state: slug
+        map: [ "enum.AmmoVisualLayers.Base" ]
+  - type: CartridgeAmmo
+    proto: PelletShotgunSlug
+  - type: SpentAmmoVisuals
+    state: "slug"
+
+- type: entity
+  id: ShellShotgun
+  name: shell (23 mm)
+  parent: BaseShellShotgun
+  components:
+  - type: Sprite
+    layers:
+      - state: base
+        map: [ "enum.AmmoVisualLayers.Base" ]
+  - type: CartridgeAmmo
+    proto: PelletShotgunSpread
+
+- type: entity
+  id: ShellShotgunPractice
+  name: shell (23 mm practice)
+  parent: BaseShellShotgun
+  components:
+  - type: Sprite
+    layers:
+      - state: practice
+        map: [ "enum.AmmoVisualLayers.Base" ]
+  - type: CartridgeAmmo
+    proto: PelletShotgunPracticeSpread
+  - type: SpentAmmoVisuals
+    state: "practice"
+
+- type: entity
+  id: ShellShotgunUranium
+  name: uranium shotgun shell
+  parent: BaseShellShotgun
+  components:
+    - type: Sprite
+      layers:
+        - state: depleted-uranium
+          map: [ "enum.AmmoVisualLayers.Base" ]
+    - type: CartridgeAmmo
+      proto: PelletShotgunUraniumSpread
+    - type: SpentAmmoVisuals
+      state: "depleted-uranium"
+
