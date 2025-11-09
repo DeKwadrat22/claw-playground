@@ -30,6 +30,7 @@
     - BaseStationTheDark # Floof
     - BaseStationCaptainState # DeltaV
     - BaseStationStockMarket # DeltaV
+    - BaseStationEmergencyAccessMedbayState # claw command
   categories: [ HideSpawnMenu ]
   components:
     - type: Transform
