@@ -23,7 +23,7 @@
 - type: loadout
   id: LoadoutMartialArtsBlueshieldCQC
   category: JobsCommandBlueshieldOfficer
-  cost: 8
+  cost: 10
   exclusive: true
   requirements:
     - !type:CharacterJobRequirement
