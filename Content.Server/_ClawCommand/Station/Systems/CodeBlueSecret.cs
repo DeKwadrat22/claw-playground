@@ -14,7 +14,7 @@ public sealed class CodeBlueSecretStateSystem : EntitySystem
     [Dependency] protected readonly ILogManager _logManager = default!;
 
     public ISawmill _sawmill { get; private set; } = default!;
-    private TimeSpan _acoDelay = TimeSpan.FromSeconds(10);
+    private TimeSpan _acoDelay = TimeSpan.FromMinutes(8);
     private bool _isAutoCodeBlueInPlay = false;
     private int _latestRound = 0;
     public override void Initialize()
