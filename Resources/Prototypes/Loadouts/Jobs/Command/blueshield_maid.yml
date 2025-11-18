@@ -21,7 +21,7 @@
 # Equipment
 - type: loadout
   id: LoadoutClothingBlueshieldMaidRevolver
-  category: JobsCommandBlueshieldMaid
+  category: JobsSecurityWeapons
   cost: 2
   exclusive: true
   requirements:
@@ -35,7 +35,7 @@
 
 - type: loadout
   id: LoadoutClothingBlueshieldMaidKatanas
-  category: JobsCommandBlueshieldMaid
+  category: JobsSecurityWeapons
   cost: 2
   exclusive: true
   requirements:
