@@ -23,6 +23,8 @@
   items:
     - type: loadout
       id: LoadoutClothingBlueshieldMaidRevolver
+    - type: loadout
+      id: LoadoutClothingBlueshieldMaidKatanas
 
 - type: characterItemGroup
   id: LoadoutBlueshieldMaidUniforms

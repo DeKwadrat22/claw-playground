@@ -22,7 +22,7 @@
 - type: loadout
   id: LoadoutClothingBlueshieldMaidRevolver
   category: JobsCommandBlueshieldMaid
-  cost: 0
+  cost: 2
   exclusive: true
   requirements:
     - !type:CharacterItemGroupRequirement
@@ -32,6 +32,21 @@
         - BlueshieldMaid
   items:
     - WeaponRevolverTrashRemover
+
+- type: loadout
+  id: LoadoutClothingBlueshieldMaidKatanas
+  category: JobsCommandBlueshieldMaid
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutBlueshieldMaidWeapons
+    - !type:CharacterJobRequirement
+      jobs:
+        - BlueshieldMaid
+  items:
+    - ClothingBeltKatanaSheathFilledMaid
+
 # Eyes
 
 # Gloves

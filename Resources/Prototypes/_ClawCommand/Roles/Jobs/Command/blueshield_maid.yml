@@ -58,7 +58,7 @@
     ears: ClothingHeadsetAltCommand
     #pocket1: UniqueBlueshieldOfficerLockerTeleporter
     outerClothing: ClothingOuterArmorDuraVest
-    belt: ClothingBeltKatanaSheathFilledMaid
+    #belt: ClothingBeltKatanaSheathFilledMaid
   storage:
     back:
     - Zipties
