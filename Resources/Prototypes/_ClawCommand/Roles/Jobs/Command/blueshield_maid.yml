@@ -37,7 +37,9 @@
   - Bar
   - Kitchen
   - Hydroponics
-  - Theatre
+  - Theatre`
+  - Cargo
+  - Salvage
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
