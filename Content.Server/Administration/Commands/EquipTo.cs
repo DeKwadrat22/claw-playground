@@ -4,6 +4,8 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+// GOOBSTATION STOLEN COMMAND
+
 using System.Linq;
 using Content.Server.Administration;
 using Content.Shared.Access.Components;
@@ -14,7 +16,7 @@ using Content.Shared.PDA;
 using Robust.Shared.Console;
 using Robust.Shared.Prototypes;
 
-namespace Content.Goobstation.Server.Administration.Commands;
+namespace Content.Server.Administration.Commands;
 
 [AdminCommand(AdminFlags.Spawn)]
 public sealed class EquipTo : LocalizedCommands
