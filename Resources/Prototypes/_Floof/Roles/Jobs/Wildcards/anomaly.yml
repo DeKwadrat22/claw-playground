@@ -17,10 +17,13 @@
     - !type:CharacterSpeciesRequirement
       species:
         - Shadowkin
+    - !type:CharacterOverallTimeRequirement
+      min: 360 #6 hrs claw command
   special:
   - !type:AddComponentSpecial
     components:
       - type: AnomalyJob
+      - type: Pacified
 
 - type: startingGear
   id: AnomalyGear
